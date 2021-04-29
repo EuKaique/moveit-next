@@ -2,4 +2,4 @@
 ## Repositório construindo na nlw#4 com REACT E NEXT.JS.
 - Irei desenvolver mais algumas funcionalidades para o app, fazendo assim a versão 2.0
 - status: em desenvolvimento :warning:
-- previsão de conclusão do app 07/05/2021
+
